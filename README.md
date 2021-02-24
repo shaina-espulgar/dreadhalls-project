@@ -1,4 +1,4 @@
-# dreadhalls-project
+# DREADHALLS-PROJECT
 
 **Description:**
 A horror themed game played inside the maze.
